@@ -117,7 +117,7 @@
 
 - github page 搭建 => 创建仓库 => 进入管理页面 => setting => pages => Build and deployment => source (depoly from a branch) => branch 选择对应分支 => save 即可
 
-- 注： github page 搭建完成后 浏览器直接访问如 https://xxxx.github.io/xxxx/ 目录404整行现象，路径精确到文件后访问可正常
+- 注： github page 搭建完成后 浏览器直接访问如 https://xxxx.github.io/xxxx/ 目录404正常现象，路径精确到文件后访问可正常
 
 - 参考访问案例 如 cesium 案例 => 离线地图 => 内网高德 
 
